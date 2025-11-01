@@ -13,7 +13,7 @@ User friendly and easily navigable
 ![img_alt](https://github.com/krishiv2489/lost-items-bridge-25546-52004dd4/blob/main/Screenshot%202025-11-01%20122205.png) 
 ![img_alt](https://github.com/krishiv2489/lost-items-bridge-25546-52004dd4/blob/main/Screenshot%202025-11-01%20122228.png) 
 ![img_alt](https://github.com/krishiv2489/lost-items-bridge-25546-52004dd4/blob/main/Screenshot%202025-11-01%20122309.png) 
-!]img_alt](https://github.com/krishiv2489/lost-items-bridge-25546-52004dd4/blob/main/Screenshot%202025-11-01%20122330.png)
+![img_alt](https://github.com/krishiv2489/lost-items-bridge-25546-52004dd4/blob/main/Screenshot%202025-11-01%20122330.png)
 
 # Scripts used
 - HTML
