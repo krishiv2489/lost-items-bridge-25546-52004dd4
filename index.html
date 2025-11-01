@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Campus Lost & Found - Report, Search & Reclaim Lost Items</title>
+    <meta name="description" content="Streamlined campus lost and found system helping students report, search, and reclaim lost belongings. Quick reporting, easy searching, secure claiming." />
+    <meta name="author" content="Campus Lost & Found" />
+
+    <meta property="og:title" content="Campus Lost & Found - Reunite with Your Lost Belongings" />
+    <meta property="og:description" content="Report lost items, browse found items, and reunite with your belongings on campus. Simple, secure, and efficient." />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="https://lovable.dev/opengraph-image-p98pqg.png" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@lovable_dev" />
+    <meta name="twitter:image" content="https://lovable.dev/opengraph-image-p98pqg.png" />
+  </head>
+
+  <!-- Firebase core SDK -->
+<script src="https://www.gstatic.com/firebasejs/11.0.1/firebase-app.js"></script>
+
+<!-- Add the SDKs for the Firebase services you need -->
+<script src="https://www.gstatic.com/firebasejs/11.0.1/firebase-firestore.js"></script>
+<!-- If you need authentication, also add: -->
+<!-- <script src="https://www.gstatic.com/firebasejs/11.0.1/firebase-auth.js"></script> -->
+
+<script>
+  // Your web app's Firebase configuration
+  const firebaseConfig = {
+    apiKey: "AIzaSyDcH7Qj9V2KKXV7kPc4j0JmeYkJ7XTzGsY",
+    authDomain: "lost-found-d77b3.firebaseapp.com",
+    projectId: "lost-found-d77b3",
+    storageBucket: "lost-found-d77b3.firebasestorage.app",
+    messagingSenderId: "458667100769",
+    appId: "1:458667100769:web:1153ef61a8f23871e33820"
+  };
+
+  // Initialize Firebase
+  const app = firebase.initializeApp(firebaseConfig);
+
+  // Access Firestore
+  const db = firebase.firestore();
+</script>
+
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
