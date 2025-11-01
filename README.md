@@ -7,7 +7,13 @@ This website shall help people find the lost things in a huge campus as people t
 # Core points
 (User has to login to show they truly are a student or staff at the University)
 User friendly and easily navigable
-img_alt img_alt img_alt img_alt img_alt img_alt img_alt
+!img_alt(https://github.com/krishiv2489/lost-items-bridge-25546-52004dd4/blob/main/Screenshot%202025-11-01%20120156.png) 
+!img_alt(https://github.com/krishiv2489/lost-items-bridge-25546-52004dd4/blob/main/Screenshot%202025-11-01%20120040.png) 
+!img_alt(https://github.com/krishiv2489/lost-items-bridge-25546-52004dd4/blob/main/Screenshot%202025-11-01%20122138.png) 
+!img_alt(https://github.com/krishiv2489/lost-items-bridge-25546-52004dd4/blob/main/Screenshot%202025-11-01%20122205.png) 
+!img_alt(https://github.com/krishiv2489/lost-items-bridge-25546-52004dd4/blob/main/Screenshot%202025-11-01%20122228.png) 
+!img_alt(https://github.com/krishiv2489/lost-items-bridge-25546-52004dd4/blob/main/Screenshot%202025-11-01%20122309.png) 
+!img_alt(https://github.com/krishiv2489/lost-items-bridge-25546-52004dd4/blob/main/Screenshot%202025-11-01%20122330.png)
 
 # Scripts used
 - HTML
